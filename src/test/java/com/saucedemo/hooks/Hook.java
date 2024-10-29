@@ -47,7 +47,7 @@ public class Hook extends BrowserManager {
             e.printStackTrace();
         }
 
-        System.out.println("I'm closing the browser");
+        System.out.println("Browser Close");
         closeBrowser();
 
     }
